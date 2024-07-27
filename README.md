@@ -1,15 +1,12 @@
-<b>Description</b>
+# Pact-Lang-Api Minimized Version
 
-Minimized Version of Original Pact-Lang-Api by Kadena
+## Description
 
---------------------------------------------------------
+This repository provides a minimized version of the original [Pact-Lang-Api](https://github.com/kadena-io/pact-lang-api) by Kadena. It offers the same functionality as the original library but in a more compact form, optimized for faster loading times.
 
-<b>Include</b>
+## Installation
 
-<script src="https://cdn.jsdelivr.net/gh/openaccess-id/pact@main/pact-min.js" defer></script><br>
-- will import the library and inject it as a top-level definition called Pact.
+To use this minimized version of the Pact-Lang-Api, include the following script tag in your HTML:
 
-------------------
-
-<b>Usage</b>
-Same as Original (see here: https://github.com/kadena-io/pact-lang-api)
+```html
+<script src="https://cdn.jsdelivr.net/gh/openaccess-id/pact@main/pact-min.js" defer></script>
